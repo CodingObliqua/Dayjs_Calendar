@@ -13,6 +13,7 @@ Persists the saved events even when you refresh the page.
 Example page
 
 ![My example page](assets/DayJsGif.gif)
+https://codingobliqua.github.io/Dayjs_Calendar/
 
 ## Installation
 
